@@ -1,0 +1,4 @@
+com\example\test\rate\repository\RateRepositoryTest.class
+com\example\test\rate\controller\RateControllerTest.class
+com\example\test\rate\ManageRateApplicationTests.class
+com\example\test\rate\service\RateServiceTest.class

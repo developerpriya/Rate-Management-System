@@ -1,0 +1,188 @@
+2022-01-10 07:01:24 [main] INFO  c.e.t.rate.controller.RateController -
+                Inside controller: Rate details deleted successfully for Rate ID: 2
+2022-01-10 07:01:25 [main] INFO  c.e.t.rate.controller.RateController -
+                Inside Controller::Retrieve rate details from RMS by Rate ID
+2022-01-10 07:01:25 [main] INFO  c.e.t.rate.controller.RateController -
+                Inside Controller:New Rate details are added to RMS
+2022-01-10 07:01:27 [main] INFO  c.e.t.r.ManageRateApplicationTests -
+                Starting ManageRateApplicationTests using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 12224 (started by dell in D:\manage-rate)
+2022-01-10 07:01:27 [main] DEBUG c.e.t.r.ManageRateApplicationTests -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 07:01:27 [main] INFO  c.e.t.r.ManageRateApplicationTests -
+                No active profile set, falling back to default profiles: default
+2022-01-10 07:01:50 [main] INFO  c.e.t.r.ManageRateApplicationTests -
+                Started ManageRateApplicationTests in 24.562 seconds (JVM running for 36.236)
+2022-01-10 07:01:51 [main] INFO  c.e.t.r.r.RateRepositoryTest -
+                Starting RateRepositoryTest using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 12224 (started by dell in D:\manage-rate)
+2022-01-10 07:01:51 [main] DEBUG c.e.t.r.r.RateRepositoryTest -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 07:01:51 [main] INFO  c.e.t.r.r.RateRepositoryTest -
+                No active profile set, falling back to default profiles: default
+2022-01-10 07:01:53 [main] INFO  c.e.t.r.r.RateRepositoryTest -
+                Started RateRepositoryTest in 2.464 seconds (JVM running for 39.175)
+2022-01-10 07:01:55 [main] INFO  c.e.test.rate.service.RateService -
+                Service Layer : New Rate details are added to RMS
+2022-01-10 07:02:47 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Starting ManageRateApplication using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 15648 (D:\manage-rate\target\classes started by dell in D:\manage-rate)
+2022-01-10 07:02:47 [restartedMain] DEBUG c.e.test.rate.ManageRateApplication -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 07:02:47 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                No active profile set, falling back to default profiles: default
+2022-01-10 07:03:17 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Started ManageRateApplication in 33.242 seconds (JVM running for 37.421)
+2022-01-10 08:55:34 [main] INFO  c.e.t.rate.controller.RateController -
+                Inside controller: Rate details deleted successfully for Rate ID: 2
+2022-01-10 08:55:34 [main] INFO  c.e.t.rate.controller.RateController -
+                Inside Controller::Retrieve rate details from RMS by Rate ID
+2022-01-10 08:55:35 [main] INFO  c.e.t.rate.controller.RateController -
+                Inside Controller:New Rate details are added to RMS
+2022-01-10 08:55:37 [main] INFO  c.e.t.r.ManageRateApplicationTests -
+                Starting ManageRateApplicationTests using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 13816 (started by dell in D:\manage-rate)
+2022-01-10 08:55:37 [main] DEBUG c.e.t.r.ManageRateApplicationTests -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 08:55:37 [main] INFO  c.e.t.r.ManageRateApplicationTests -
+                No active profile set, falling back to default profiles: default
+2022-01-10 08:56:03 [main] INFO  c.e.t.r.r.RateRepositoryTest -
+                Starting RateRepositoryTest using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 13816 (started by dell in D:\manage-rate)
+2022-01-10 08:56:03 [main] DEBUG c.e.t.r.r.RateRepositoryTest -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 08:56:03 [main] INFO  c.e.t.r.r.RateRepositoryTest -
+                No active profile set, falling back to default profiles: default
+2022-01-10 08:56:06 [main] INFO  c.e.t.r.r.RateRepositoryTest -
+                Started RateRepositoryTest in 4.393 seconds (JVM running for 39.516)
+2022-01-10 08:56:07 [main] INFO  c.e.test.rate.service.RateService -
+                Service Layer : New Rate details are added to RMS
+2022-01-10 09:21:59 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Starting ManageRateApplication using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 6464 (D:\manage-rate\target\classes started by dell in D:\manage-rate)
+2022-01-10 09:21:59 [restartedMain] DEBUG c.e.test.rate.ManageRateApplication -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 09:21:59 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                No active profile set, falling back to default profiles: default
+2022-01-10 09:23:08 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Started ManageRateApplication in 72.386 seconds (JVM running for 76.883)
+2022-01-10 09:27:24 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Starting ManageRateApplication using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 17160 (D:\manage-rate\target\classes started by dell in D:\manage-rate)
+2022-01-10 09:27:24 [restartedMain] DEBUG c.e.test.rate.ManageRateApplication -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 09:27:24 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                No active profile set, falling back to default profiles: default
+2022-01-10 09:27:50 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Started ManageRateApplication in 30.229 seconds (JVM running for 33.902)
+2022-01-10 09:38:13 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Starting ManageRateApplication using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 8468 (D:\manage-rate\target\classes started by dell in D:\manage-rate)
+2022-01-10 09:38:13 [restartedMain] DEBUG c.e.test.rate.ManageRateApplication -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 09:38:13 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                No active profile set, falling back to default profiles: default
+2022-01-10 09:38:31 [restartedMain] DEBUG c.example.test.rate.filter.JwtFilter -
+                Filter 'jwtFilter' configured for use
+2022-01-10 09:38:51 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Started ManageRateApplication in 42.489 seconds (JVM running for 48.272)
+2022-01-10 09:39:39 [hystrix-RateController-1] ERROR c.e.test.rate.service.RateService -
+                Service Layer: RateId not found in RMS
+2022-01-10 09:40:58 [hystrix-RateController-2] INFO  c.e.test.rate.service.RateService -
+                Service Layer : New Rate details are added to RMS
+2022-01-10 09:40:58 [hystrix-RateController-2] INFO  c.e.t.rate.controller.RateController -
+                Inside Controller:New Rate details are added to RMS
+2022-01-10 09:41:01 [hystrix-RateController-3] INFO  c.e.test.rate.service.RateService -
+                Service Layer : New Rate details are added to RMS
+2022-01-10 09:41:01 [hystrix-RateController-3] INFO  c.e.t.rate.controller.RateController -
+                Inside Controller:New Rate details are added to RMS
+2022-01-10 09:41:09 [hystrix-RateController-4] INFO  c.e.test.rate.service.RateService -
+                Service Layer:Retrieve rate details from RMS by Rate ID
+2022-01-10 09:41:09 [hystrix-RateController-4] INFO  c.e.t.rate.controller.RateController -
+                Inside Controller::Retrieve rate details from RMS by Rate ID
+2022-01-10 09:41:09 [hystrix-RateController-4] INFO  c.e.test.rate.service.RateService -
+                Service Layer:Retrieve rate details from RMS by Rate ID
+2022-01-10 09:41:16 [hystrix-RateController-5] ERROR c.e.test.rate.service.RateService -
+                Service Layer Delete:RateId not found in RMS
+2022-01-10 09:41:20 [hystrix-RateController-6] INFO  c.e.test.rate.service.RateService -
+                Service Layer:Rate details deleted successfully for Rate ID: 1
+2022-01-10 09:41:20 [hystrix-RateController-6] INFO  c.e.t.rate.controller.RateController -
+                Inside controller: Rate details deleted successfully for Rate ID: 1
+2022-01-10 09:41:26 [http-nio-9002-exec-1] INFO  c.e.t.rate.controller.RateController -
+                Inside controller: Rate details updated successfully for Rate ID: 1
+2022-01-10 09:41:26 [updateExecutor-1] ERROR c.e.test.rate.service.RateService -
+                RateId not found in RMS
+2022-01-10 09:41:31 [http-nio-9002-exec-3] INFO  c.e.t.rate.controller.RateController -
+                Inside controller: Rate details updated successfully for Rate ID: 2
+2022-01-10 09:41:31 [updateExecutor-2] INFO  c.e.test.rate.service.RateService -
+                Service Layer:Rate details updated successfully for Rate ID: 2
+2022-01-10 14:42:42 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Starting ManageRateApplication using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 16716 (D:\manage-rate\target\classes started by dell in D:\manage-rate)
+2022-01-10 14:42:42 [restartedMain] DEBUG c.e.test.rate.ManageRateApplication -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 14:42:42 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                No active profile set, falling back to default profiles: default
+2022-01-10 14:43:06 [restartedMain] DEBUG c.example.test.rate.filter.JwtFilter -
+                Filter 'jwtFilter' configured for use
+2022-01-10 14:43:47 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Started ManageRateApplication in 70.992 seconds (JVM running for 76.415)
+2022-01-10 15:14:23 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Starting ManageRateApplication using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 1812 (D:\manage-rate\target\classes started by dell in D:\manage-rate)
+2022-01-10 15:14:23 [restartedMain] DEBUG c.e.test.rate.ManageRateApplication -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 15:14:23 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                No active profile set, falling back to default profiles: default
+2022-01-10 15:15:07 [restartedMain] DEBUG c.example.test.rate.filter.JwtFilter -
+                Filter 'jwtFilter' configured for use
+2022-01-10 15:15:35 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Started ManageRateApplication in 86.713 seconds (JVM running for 89.666)
+2022-01-10 15:23:44 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Starting ManageRateApplication using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 3152 (D:\manage-rate\target\classes started by dell in D:\manage-rate)
+2022-01-10 15:23:44 [restartedMain] DEBUG c.e.test.rate.ManageRateApplication -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 15:23:44 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                No active profile set, falling back to default profiles: default
+2022-01-10 15:24:03 [restartedMain] DEBUG c.example.test.rate.filter.JwtFilter -
+                Filter 'jwtFilter' configured for use
+2022-01-10 15:24:24 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Started ManageRateApplication in 44.236 seconds (JVM running for 48.926)
+2022-01-10 15:54:06 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Starting ManageRateApplication using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 1488 (D:\manage-rate\target\classes started by dell in D:\manage-rate)
+2022-01-10 15:54:06 [restartedMain] DEBUG c.e.test.rate.ManageRateApplication -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 15:54:06 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                No active profile set, falling back to default profiles: default
+2022-01-10 15:54:21 [restartedMain] DEBUG c.example.test.rate.filter.JwtFilter -
+                Filter 'jwtFilter' configured for use
+2022-01-10 15:54:41 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Started ManageRateApplication in 38.15 seconds (JVM running for 42.208)
+2022-01-10 19:14:53 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Starting ManageRateApplication using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 7964 (D:\manage-rate\target\classes started by dell in D:\manage-rate)
+2022-01-10 19:14:53 [restartedMain] DEBUG c.e.test.rate.ManageRateApplication -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 19:14:53 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                No active profile set, falling back to default profiles: default
+2022-01-10 19:15:23 [restartedMain] DEBUG c.example.test.rate.filter.JwtFilter -
+                Filter 'jwtFilter' configured for use
+2022-01-10 19:17:20 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Starting ManageRateApplication using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 9112 (D:\manage-rate\target\classes started by dell in D:\manage-rate)
+2022-01-10 19:17:20 [restartedMain] DEBUG c.e.test.rate.ManageRateApplication -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 19:17:20 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                No active profile set, falling back to default profiles: default
+2022-01-10 19:17:31 [restartedMain] DEBUG c.example.test.rate.filter.JwtFilter -
+                Filter 'jwtFilter' configured for use
+2022-01-10 19:17:49 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Started ManageRateApplication in 32.365 seconds (JVM running for 37.652)
+2022-01-10 21:18:52 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Starting ManageRateApplication using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 1020 (D:\manage-rate\target\classes started by dell in D:\manage-rate)
+2022-01-10 21:18:52 [restartedMain] DEBUG c.e.test.rate.ManageRateApplication -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 21:18:52 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                No active profile set, falling back to default profiles: default
+2022-01-10 21:19:07 [restartedMain] DEBUG c.example.test.rate.filter.JwtFilter -
+                Filter 'jwtFilter' configured for use
+2022-01-10 21:19:24 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Started ManageRateApplication in 35.202 seconds (JVM running for 39.972)
+2022-01-10 21:23:57 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Starting ManageRateApplication using Java 1.8.0_301 on DESKTOP-LMHFHK6 with PID 11324 (D:\manage-rate\target\classes started by dell in D:\manage-rate)
+2022-01-10 21:23:57 [restartedMain] DEBUG c.e.test.rate.ManageRateApplication -
+                Running with Spring Boot v2.5.8, Spring v5.3.14
+2022-01-10 21:23:57 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                No active profile set, falling back to default profiles: default
+2022-01-10 21:24:10 [restartedMain] DEBUG c.example.test.rate.filter.JwtFilter -
+                Filter 'jwtFilter' configured for use
+2022-01-10 21:24:28 [restartedMain] INFO  c.e.test.rate.ManageRateApplication -
+                Started ManageRateApplication in 32.992 seconds (JVM running for 37.117)
