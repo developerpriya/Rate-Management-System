@@ -1,0 +1,32 @@
+<div class="col-md-6 offset-md-3">
+    <h3> Create Rate </h3>
+    <form (ngSubmit) = "onSubmit()">
+    
+        <div class="form-group">
+            <label> Description</label>
+            <input type="text" class ="form-control" id = "rateDesc"
+                [(ngModel)] = "rate.rateDesc" name = "rateDesc">
+        </div>
+    
+        <div class="form-group">
+            <label> Effective Date</label>
+            <input type="text" class ="form-control" id = "rateEffDate"
+                [(ngModel)] = "rate.rateEffDate" name = "rateEffDate">
+        </div>
+    
+        <div class="form-group">
+            <label> Expiration Date</label>
+            <input type="text" class ="form-control" id = "rateExpDate"
+                [(ngModel)] = "rate.rateExpDate" name = "rateExpDate">
+        </div>
+
+          <div class="form-group">
+            <label> Amount</label>
+            <input type="text" class ="form-control" id = "amount"
+                [(ngModel)] = "rate.amount" name = "amount">
+        </div>
+    
+        <button class = "btn btn-success" type ="submit">Submit</button>
+    
+    </form>
+    </div> 

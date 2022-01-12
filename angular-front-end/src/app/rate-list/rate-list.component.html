@@ -1,0 +1,27 @@
+<h2>Rate List</h2>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Rate Id</th>
+      <th>Description</th>
+      <th>Effective Date</th>
+      <th>Expiration Date</th>
+      <th>Amount</th>
+        <th> Actions </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let rate of rates">
+      <td>{{ rate.rateId }}</td>
+      <td>{{ rate.rateDesc }}</td>
+      <td>{{ rate.rateEffDate }}</td>
+      <td>{{ rate.rateExpDate }}</td>
+      <td>{{ rate.amount }}</td>
+       <td>
+                <button (click) = "updateRate(rate.rateId )" class = "btn btn-info"> Update</button>
+                <button (click) = "deleteRate(rate.rateId)" class = "btn btn-danger" style="margin-left: 10px"> Delete</button>
+                <button (click) = "rateDetails(rate.rateId)" class = "btn btn-info" style="margin-left: 10px"> View</button>
+            </td>
+    </tr>
+  </tbody>
+</table>
